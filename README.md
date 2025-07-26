@@ -10,12 +10,14 @@ This repository contains a **responsive and visually appealing dashboard web app
 ---
 
 ## 📁 Project Structure
+```
 DashBoard-Website/
 ├── index.html # Main HTML structure
 ├── style.css # Styling for layout, theme, responsiveness
 ├── script.js # Interactive behaviors and dynamic updates
 ├── /images # Icons, charts, or asset images used in the UI
 └── /fonts # Custom fonts for UI elements
+```
 ---
 
 ## 🎨 Features
